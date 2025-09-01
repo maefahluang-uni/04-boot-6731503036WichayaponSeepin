@@ -24,7 +24,7 @@ Use a HashMap to store registered users. Define a static HashMap in the `UserCon
 
 Students can run the Spring Boot application using the `App` class. Test these services using Postman. Students can use the following requests to test the service:
 
-* Register a new user: Send a POST request to `http://localhost:8080/users` with the following JSON content:
+* Register a new user: Send a POST request to `  users` with the following JSON content:
 
 ```json
 {
